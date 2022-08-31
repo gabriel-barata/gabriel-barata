@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Barata</h1>
 <h3 align="center">I'm a student graduating at Mechanical Engineer reinvented at Data Science, passionate by Machine Learning and Natural Language Processing.</h3>
 
-- 🌱 I’m currently learning **Spark and Linux
+- 🌱 I’m currently learning **Spark and Linux**
 
 - 📫 You can reach me at **gabiel.barata20@gmail.com**
 
