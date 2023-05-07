@@ -11,7 +11,7 @@
 
 <h3 align="left">Connecte-se comigo:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/gabriel-barata](https://www.linkedin.com/in/gabriel-barata/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-barata" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/gabriel-barata/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-barata" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/novidades-em-breve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="novidades-em-breve" height="30" width="40" /></a>
 </p>
 
